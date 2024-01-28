@@ -1,0 +1,3 @@
+## 概要
+Raspberry Pi Pico用のArduino環境(earlephilhower版、PlatformIO環境)で、プロジェクトごとにFeeRTOSのカスタマイズを可能とするライブラリです。
+このライブラリのほとんどのファイルは、PlatformIOのパッケージにあるファイルをincludeするのみの構成となっています。
